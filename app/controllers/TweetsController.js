@@ -144,6 +144,7 @@ Tweets.TweetsController = M.Controller.extend({
 		function getProperties(itemModel) {
 			var propertiesChildItem = new Object();
 			propertiesChildItem.text = itemModel.record.text;
+			propertiesChildItem.profileImageUrl = itemModel.record.profileImageUrl;
 
 			var properties = new Array();
 			properties.push(propertiesChildItem);
