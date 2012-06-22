@@ -1,0 +1,43 @@
+.center {
+	text-align: center;
+}
+
+.left {
+	text-align: left;
+}
+
+.fontLarge {
+	font-size: large;
+}
+
+.title {
+	font-size: 1.3em;
+	padding: 1.5em 0 3em 0;
+}
+
+.footerLabel {
+	font-size: 0.6em;
+	padding: 1.5em 0 0 0;
+}
+
+.urlLabel {
+    text-decoration: underline;
+    color: #2489CE;
+}
+
+.lastUpdate {
+	color: gray; font-size: 0.8em;
+}
+
+.wrap {
+	white-space: normal;
+}
+
+.content {
+	font-size: 12px; font-weight: normal;
+}
+
+.otherResults {
+	padding: 0.5em;
+	margin-bottom: 2em;
+}
